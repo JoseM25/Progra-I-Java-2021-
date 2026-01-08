@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Nodo
+comment0.text=\r\n\r\n\r\n\ @Jose\ Antonio\ Mora\r\n\ @C15114\r\n
+comment1.params=laMaquinaRecibida
+comment1.target=Nodo(Maquina)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Nodo\r\n
+comment2.params=
+comment2.target=Maquina\ getMaquina()
+comment3.params=unaMaquina
+comment3.target=void\ setMaquina(Maquina)
+comment4.params=
+comment4.target=java.util.ArrayList\ getSiguiente()
+comment5.params=unSiguiente
+comment5.target=void\ setSiguiente(Nodo)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Maquina
+comment0.text=\r\n\r\n\r\n\ @Jose\ Antonio\ Mora\r\n\ @C15114\r\n
+comment1.params=valorRecibido\ identificadorRecibido
+comment1.target=Maquina(int,\ java.lang.String)
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Elemento\r\n
+comment2.params=
+comment2.target=java.lang.String\ getIdentificador()
+comment3.params=unIdentificador
+comment3.target=void\ setIdentificador(java.lang.String)
+comment4.params=
+comment4.target=int\ getValor()
+comment5.params=unValor
+comment5.target=void\ setValor(int)
+comment6.params=
+comment6.target=java.lang.String\ toString()
+numComments=7

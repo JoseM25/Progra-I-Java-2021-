@@ -1,0 +1,21 @@
+#BlueJ class context
+comment0.target=Lista
+comment0.text=\r\n\r\n\r\n\ @Jose\ Antonio\ Mora\r\n\ @C15114\r\n
+comment1.params=
+comment1.target=Lista()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Lista\r\n
+comment2.params=
+comment2.target=Nodo\ getPrimero()
+comment3.params=primeroRecibido
+comment3.target=void\ setPrimero(Nodo)
+comment4.params=
+comment4.target=boolean\ estarVacia()
+comment5.params=unaMaquina
+comment5.target=void\ agregarFinal(Maquina)
+comment6.params=idBuscado
+comment6.target=java.lang.String\ buscarMaquina(java.lang.String)
+comment7.params=
+comment7.target=int\ costosRecursivos()
+comment8.params=
+comment8.target=java.lang.String\ toString()
+numComments=9
