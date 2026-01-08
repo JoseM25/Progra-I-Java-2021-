@@ -1,0 +1,18 @@
+#BlueJ class context
+comment0.target=Experto
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Experto\ here.\r\n\r\n\ @author\ (your\ name)\r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=Experto()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Experto\r\n
+comment2.params=
+comment2.target=void\ conseguirNumeroAleatorio()
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+comment3.params=numeroRecibido
+comment3.target=int\ cantidadNumerosAleatorios(int)
+comment4.params=palabraRecibida\ caracterRecibido
+comment4.target=boolean\ encontrarCaracter(java.lang.String,\ java.lang.String)
+comment5.params=
+comment5.target=void\ divisibleEntre2y5()
+comment6.params=
+comment6.target=void\ adivinarNumero()
+numComments=7

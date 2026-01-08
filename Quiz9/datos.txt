@@ -1,0 +1,10 @@
+Vivienda:
+Lugar protegido o construcción acondicionada para que vivan personas.
+Banco:
+Empresa comercial que realiza operaciones financieras con el dinero procedente de accionistas y clientes.
+Supermercado:
+Establecimiento donde se venden alimentos y otros productos que se sirve el mismo cliente abonando el importe a la salida.
+Rio:
+Corriente natural de agua que fluye permanentemente y va a desembocar en otra, en un lago o en el mar.
+Telefono:
+Aparato que recibe y emite comunicaciones a larga distancia y está conectado a una red telefónica.

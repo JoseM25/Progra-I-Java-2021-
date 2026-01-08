@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Controlador
+comment0.text=\r\n\ Primer\ Tarea\ programada,\ representaci\u00F3n\ del\ juego\ de\ mesa\ Boggle\r\n\ \r\n\ @author\ Jos\u00E9\ Antonio\ Mora,\ C15114\ y\ Yasmyn\ Chac\u00F3n,\ B41761\r\n\ @version\ final\r\n
+comment1.params=
+comment1.target=Controlador()
+comment2.params=
+comment2.target=void\ iniciar()
+comment3.params=parametros
+comment3.target=void\ main(java.lang.String[])
+numComments=4

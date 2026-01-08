@@ -1,0 +1,17 @@
+#BlueJ class context
+comment0.target=Controlador
+comment0.text=\r\n\ Ejemplo\ de\ lectura\ y\ escritura\ de\ archivos\ de\ texto\r\n\ @author\ Prof.Maureen\ Murillo\r\n\ @version\ 2021\r\n
+comment1.params=
+comment1.target=Controlador()
+comment2.params=
+comment2.target=void\ iniciar()
+comment3.params=
+comment3.target=void\ escribirFrases()
+comment4.params=
+comment4.target=void\ leerFrases()
+comment5.params=
+comment5.target=void\ leerPedazos()
+comment5.text=\r\n\ Lee\ cada\ palabra\ del\ archivo,\ identificando\ si\ es\ un\ entero\ o\ en\ caso\r\n\ contrario\ lo\ asume\ como\ texto.\r\n
+comment6.params=args
+comment6.target=void\ main(java.lang.String[])
+numComments=7

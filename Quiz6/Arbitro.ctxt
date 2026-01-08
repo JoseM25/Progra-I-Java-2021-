@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=Arbitro
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ Arbitro\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=laPalabra\ laInterfaz\ elTablero
+comment1.target=Arbitro(java.lang.String,\ Interfaz,\ Tablero)
+comment2.params=
+comment2.target=void\ jugar()
+comment3.params=laPalabra
+comment3.target=boolean\ verificarPalabra(java.lang.String)
+comment4.params=laPalabra
+comment4.target=int\ controlarPuntaje(java.lang.String)
+comment5.params=
+comment5.target=void\ mostrarLista()
+comment6.params=
+comment6.target=void\ mostrarCreditos()
+comment7.params=
+comment7.target=void\ ayudar()
+comment8.params=
+comment8.target=void\ Terminar()
+comment9.params=
+comment9.target=int\ setPuntaje()
+numComments=10

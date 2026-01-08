@@ -1,0 +1,36 @@
+#BlueJ class context
+comment0.target=Controlador
+comment0.text=\r\n\ Esta\ clase\ mantiene\ el\ control\ de\ todo\ el\ programa\ del\ cajero\ autom\u00E1tico\r\n\ @author\ Maureen\ Murillo\r\n\ @version\ 06/09/2021\r\n
+comment1.params=
+comment1.target=Controlador()
+comment1.text=\r\n\ M\u00E9todo\ constructor\ que\ inicializa\ todos\ los\ atributos\ del\ objeto.\r\n
+comment10.params=unaCuenta
+comment10.target=void\ setCuenta1(Cuenta)
+comment11.params=unaCuenta
+comment11.target=void\ setCuenta2(Cuenta)
+comment12.params=parametros
+comment12.target=void\ main(java.lang.String[])
+comment12.text=\r\n\ M\u00E9todo\ que\ permite\ iniciar\ el\ programa\ d\=\ nel\ cajero\ bancario.\r\n
+comment2.params=
+comment2.target=void\ iniciar()
+comment2.text=\r\n\ M\u00E9todo\ que\ despliega\ un\ men\u00FA\ y\ permite\ al\ usuario\ escoger\ y\ ejecutar\ la\ opci\u00F3n\ de\ su\r\n\ preferencia.\r\n
+comment3.params=
+comment3.target=void\ iniciar2()
+comment3.text=\r\n\ M\u00E9todo\ alternativo\ que\ despliega\ un\ men\u00FA\ y\ permite\ al\ usuario\ escoger\ y\ \r\n\ ejecutar\ la\ opci\u00F3n\ de\ su\ preferencia.\ \r\n
+comment4.params=
+comment4.target=void\ realizarConsulta()
+comment4.text=\r\n\ M\u00E9todo\ que\ solicita\ informaci\u00F3n\ al\ usuario\ para\ consultar\ alguna\ cuenta\ bancaria.\r\n
+comment5.params=
+comment5.target=void\ realizarDeposito()
+comment5.text=\r\n\ M\u00E9todo\ que\ solicita\ informaci\u00F3n\ al\ usuario\ para\ hacer\ un\ dep\u00F3sito\ en\ una\ cuenta.\r\n
+comment6.params=
+comment6.target=void\ realizarRetiro()
+comment6.text=\r\n\ M\u00E9todo\ que\ solicita\ informaci\u00F3n\ al\ usuario\ para\ hacer\ un\ retiro\ de\ una\ cuenta.\r\n
+comment7.params=
+comment7.target=void\ mostrarCreditos()
+comment7.text=\r\n\ M\u00E9todo\ que\ muestra\ los\ cr\u00E9ditos\ del\ programa.\r\n
+comment8.params=
+comment8.target=Cuenta\ getCuenta1()
+comment9.params=
+comment9.target=Cuenta\ getCuenta2()
+numComments=13

@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=Filologo
+comment1.params=laSilaba\ laInterfaz
+comment1.target=Filologo(java.lang.String,\ Interfaz)
+comment2.params=
+comment2.target=void\ encriptar()
+comment3.params=
+comment3.target=void\ desencriptar()
+numComments=4
